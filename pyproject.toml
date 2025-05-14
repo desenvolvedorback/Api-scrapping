@@ -1,0 +1,3 @@
+[build-system]
+requires = ["flask", "requests", "beautifulsoup4"]
+build-backend = "setuptools.build_meta"
