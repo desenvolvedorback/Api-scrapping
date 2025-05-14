@@ -3,7 +3,7 @@ requires = ["setuptools", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "api👍"
+name = "api_creator"
 version = "0.1.0"
 description = "api de scraping"
 authors = [
