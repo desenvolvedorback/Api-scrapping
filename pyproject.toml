@@ -3,14 +3,6 @@ requires = ["setuptools", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "api_creator"
+name = "api_chefe"
 version = "0.1.0"
-description = "api de scraping"
-authors = [
-  { name="Seu Nome", email="seu@email.com" }
-]
-dependencies = [
-  "flask",
-  "requests",
-  "beautifulsoup4"
-]
+dependencies = ["flask"]
